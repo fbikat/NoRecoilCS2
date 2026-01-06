@@ -36,7 +36,7 @@
 v2.2:
 + Pause button now pauses script completely, binds will no longer select weapons and the keys can be used normally until the pause button is hit again to resume the script.
 + Files have now been merged.
-+ 100ms delay added before starting recoil pattern as it was quite annoying that it pulled down if you just tapped the mouse once.
++ 100ms delay added before starting recoil pattern as it was quite annoying that it moved down a little if you just tapped the mouse once. Now it wont start the recoil if you just tap, only when you hold the mouse button.
 + The script has been updated to work as McDaiveds original script was outdated and the weapons did not work.
 ```
 

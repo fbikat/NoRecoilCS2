@@ -27,13 +27,15 @@
 ## ![](https://github.com/McDaived/NoRecoil-CS2/assets/18085492/7eab67ab-4b44-40ee-b050-53e48a856fc5)How to use :
 1. Download AutoHotKey **V2** and install it.
 2. Extract zip folder of NoRecoil.
-3. Open ``NoRecoil v2.ahk`` in script folder.
+3. Open ``NoRecoil.ahk`` in  folder.
 4. press on the bind keys to turn on NoRecoil or you can change keybinds values in gui window for weapons as you wish.
 5. done.
 
 ## ![](https://github.com/McDaived/NoRecoil-CS2/assets/18085492/54cde871-7247-4d88-be81-ffa0ea3173aa)Change log :
 ```diff
-v2:
+v2.2:
++ Pause button now pauses script completely, binds will no longer select weapons and the keys can be used normally until the pause button is hit again to resume the script.
++ Files have now been merged.
 + The script has been updated to work as McDaiveds original script was outdated and the weapons did not work.
 ```
 

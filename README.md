@@ -1,6 +1,8 @@
 <h1 align="center">AHK NoRecoil CS2 & CSGO</h1>
 <h4 align="center">A simple script AutoHotKey NoRecoil for CS2, includes a gui window to edit value of hotkey
  <br> Not bannable as it just use a AutoHotKey</h4>
+ <br> Made by McDaived, updated by FBI</h4>
+ <br>Discord: fbikitty</h4>
   
 
 ## ![](https://github.com/McDaived/NoRecoil-CS2/assets/18085492/fdee8c61-c0f7-41a2-80a0-15c1b5f5bb95)Important :
@@ -11,16 +13,16 @@
 
 
 ## ![](https://github.com/McDaived/Discord-Profile-Card/assets/18085492/952742cf-9744-4ccb-9de1-766560ebae12)Features :
-M4A4 (F4)
-M4A1 (F3)
-FAMAS (F5)
-AK47 (F2)
-Galil (F6)
-UMP (F7)
-SG (To use NoRecoil in zoom, hold LAlt key when shooting) - (End)
-AUG (To use NoRecoil in zoom, hold LAlt key when shooting) - (Home)
-NoRecoil Off (CapsLock)
-Pause/Resume (Del) 
+- M4A4 (F4)
+- M4A1 (F3)
+- FAMAS (F5)
+- AK47 (F2)
+- Galil (F6)
+- UMP (F7)
+- SG (To use NoRecoil in zoom, hold LAlt key when shooting) - (End)
+- AUG (To use NoRecoil in zoom, hold LAlt key when shooting) - (Home)
+- NoRecoil Off (CapsLock)
+- Pause/Resume (Del) 
 
 ## ![](https://github.com/McDaived/NoRecoil-CS2/assets/18085492/7eab67ab-4b44-40ee-b050-53e48a856fc5)How to use :
 1. Download AutoHotKey **V2** and install it.

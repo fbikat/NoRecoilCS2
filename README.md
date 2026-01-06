@@ -1,4 +1,4 @@
-<h1 align="center">AHK NoRecoil CS2 & CSGO</h1>
+<h1 align="center">AHK NoRecoil CS2</h1>
 <h4 align="center">A simple script AutoHotKey NoRecoil for CS2, includes a gui window to edit value of hotkey
  <br> Not bannable as it just use a AutoHotKey
  <br> Made by McDaived, updated by FBI
